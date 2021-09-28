@@ -8,12 +8,19 @@ According to the Sixth Economic Census, women constitute only 14% of India’s e
 
 Scipt4HER Hackathon will allow participants to test their passion for innovation, problem-solving, design thinking, and programming skills by solving the pressing problems faced by women entrepreneurs and drive gender-responsive solutions.
 
-●        How can you bring Financial Inclusion for rural women?
-●        How can you deliver tech solutions in leveraging mainstream market and trade for rural women entrepreneurs?
-●        How can you build peer-support communities for rural women?
+- How can you bring Financial Inclusion for rural women?
+- How can you deliver tech solutions in leveraging mainstream market and trade for rural women entrepreneurs?
+- How can you build peer-support communities for rural women?
 
 
-Team members - @Sushreesatarupa
-Full project details - 
-2-3 minute video demo of your solution
-Link to Github/Code Repository - 
+## Team members
+[@Sushreesatarupa](https://github.com/Sushreesatarupa)
+[@Sayansree](https://github.com/Sayansree)
+[@Dibyansika](https://github.com/Dibyansika)
+
+## Full project details
+
+## Video demo of our solution
+
+## Link to Github/Code Repository
+https://github.com/Sushreesatarupa/Value-Chain
