@@ -14,9 +14,9 @@ Scipt4HER Hackathon will allow participants to test their passion for innovation
 
 
 ## Team members
-[@Sushreesatarupa](https://github.com/Sushreesatarupa)
-[@Sayansree](https://github.com/Sayansree)
-[@Dibyansika](https://github.com/Dibyansika)
+- [@Sushreesatarupa](https://github.com/Sushreesatarupa)
+- [@Sayansree](https://github.com/Sayansree)
+- [@Dibyansika](https://github.com/Dibyansika)
 
 ## Full project details
 
