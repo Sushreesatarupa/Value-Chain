@@ -31,6 +31,18 @@ Value-Chain-Study
 ### Pitch Deck (File Type: PDF)
 ### Logo
 ### Problem Statement
+ ***Marketing***
+To enable rural women entrepreneurs to leverage the market to secure their livelihood, it requires a combination of training on business value chain, visibility as well as regular mentoring.
+ ***Training on understanding business value chain*** - 
+- How can we encourage women to understand business value chains and train them on topics which can help them run their enterprise efficiently. 
+- The topics can range from 
+  - raw material sourcing
+  - managing a team
+  - managing cash flow 
+  - understanding market size 
+  - packaging, channels of outreach 
+  - brand building and demand creation
+- Design a solution which brings these modules in vernacular, non high bandwidth needing mode to RWEs.
 
 ### Technical Robustness / Scalability (30%)
 - Does the code have bugs? 
