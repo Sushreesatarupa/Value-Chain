@@ -12,6 +12,10 @@ Scipt4HER Hackathon will allow participants to test their passion for innovation
 - How can you deliver tech solutions in leveraging mainstream market and trade for rural women entrepreneurs?
 - How can you build peer-support communities for rural women?
 
+## Team name
+Hackoholics
+
+## Team description
 
 ## Team members
 - [@Sushreesatarupa](https://github.com/Sushreesatarupa)
@@ -19,7 +23,14 @@ Scipt4HER Hackathon will allow participants to test their passion for innovation
 - [@Dibyansika](https://github.com/Dibyansika)
 
 ## Full project details
-
+### Project name
+Value-Chain-Study
+### Project overview
+### Codes you developed
+### Framework/Open Source Libraries Used
+### Pitch Deck (File Type: PDF)
+### Logo
+### Problem Statement
 
 ### Technical Robustness / Scalability (30%)
 - Does the code have bugs? 
