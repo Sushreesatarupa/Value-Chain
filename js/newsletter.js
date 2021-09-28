@@ -1,8 +1,13 @@
 window.onload=()=>{
+    $(`.lang`).hide()
+    $(`.eng`).show()
 
-            const newsBtn=document.getElementById("news-btn");
+        $("#lang")[0].onchange= (event)=>{
+            $(`.lang`).hide()
+            $(`.${event.target.value}`).show()
+        }
 
-        newsBtn.onclick=async()=>{
+        $("#news-btn").onclick=async()=>{
             const msg=document.getElementById("news-msg");
             const email=document.getElementById("news-email");
             const name=document.getElementById("news-name");
