@@ -23,6 +23,10 @@ http://www.templatemo.com/tm-402-genius
     <link rel="stylesheet" href="css/templatemo_misc.css">
     <link rel="stylesheet" href="css/animate.css">
     <link href="css/templatemo_style.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="static/css/chat.css">
+    <link rel="stylesheet" href="static/css/home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/ico/favicon.ico">
@@ -526,6 +530,7 @@ http://www.templatemo.com/tm-402-genius
                             </div> <!-- /.page-header -->
                             <div class="content-inner">
                                 <div class="row">
+					
                                     <div class="col-md-8">
                                         <h3 class="widget-title">Subscribe to our newsletter</h3>
                                         <p>Feel free to send us a message regarding this Genius HTML5 template. Pellentesque pulvinar, orci vel scelerisque suscipit, libero justo laoreet felis, ac consectetur est nisi quis ligula. Maecenas nec felis elit.</p>
@@ -573,6 +578,51 @@ http://www.templatemo.com/tm-402-genius
                         
                         <div class="site-footer">
                             <div class="row">
+				    
+				    <!-- CHAT BAR BLOCK -->
+    <div class="chat-bar-collapsible">
+        <button id="chat-button" type="button" class="collapsible">Chat with us!
+            <i id="chat-icon" style="color: #fff;" class="fa fa-fw fa-comments-o"></i>
+        </button>
+
+        <div class="content">
+            <div class="full-chat-block">
+                <!-- Message Container -->
+                <div class="outer-container">
+                    <div class="chat-container">
+                        <!-- Messages -->
+                        <div id="chatbox">
+                            <h5 id="chat-timestamp"></h5>
+                            <p id="botStarterMessage" class="botText"><span>Loading...</span></p>
+                        </div>
+
+                        <!-- User input box -->
+                        <div class="chat-bar-input-block">
+                            <div id="userInput">
+                                <input id="textInput" class="input-box" type="text" name="msg"
+                                    placeholder="Tap 'Enter' to send a message">
+                                <p></p>
+                            </div>
+
+                            <div class="chat-bar-icons">
+                                <i id="chat-icon" style="color: crimson;" class="fa fa-fw fa-heart"
+                                    onclick="heartButton()"></i>
+                                <i id="chat-icon" style="color: #333;" class="fa fa-fw fa-send"
+                                    onclick="sendButton()"></i>
+                            </div>
+                        </div>
+
+                        <div id="chat-bar-bottom">
+                            <p></p>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
                                 <div class="col-md-6">
                                     <p class="copyright-text">Made with <span class= "fa fa-heart"></span> & <span class="fa fa-coffee"></span> by Team Hackoholics 
                                     </p>
@@ -626,4 +676,8 @@ http://www.templatemo.com/tm-402-genius
     </script>
 <!-- templatemo 402 genius -->
 </body>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="static/scripts/responses.js"></script>
+<script src="static/scripts/chat.js"></script>
+
 </html>
