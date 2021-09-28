@@ -12,24 +12,53 @@ Scipt4HER Hackathon will allow participants to test their passion for innovation
 - How can you deliver tech solutions in leveraging mainstream market and trade for rural women entrepreneurs?
 - How can you build peer-support communities for rural women?
 
+--- 
+
 ## Team name
 Hackoholics
 
+---
+
 ## Team description
+
+---
 
 ## Team members
 - [@Sushreesatarupa](https://github.com/Sushreesatarupa)
 - [@Sayansree](https://github.com/Sayansree)
 - [@Dibyansika](https://github.com/Dibyansika)
 
+---
+
 ## Full project details
+
+---
+
 ### Project name
 Value-Chain-Study
+
+---
+
 ### Project overview
+
+---
+
 ### Codes you developed
+
+---
+
 ### Framework/Open Source Libraries Used
+
+---
+
 ### Pitch Deck (File Type: PDF)
+
+---
+
 ### Logo
+
+---
+
 ### Problem Statement
  ***Marketing***
 To enable rural women entrepreneurs to leverage the market to secure their livelihood, it requires a combination of training on business value chain, visibility as well as regular mentoring.
@@ -44,6 +73,8 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
   - brand building and demand creation
 - Design a solution which brings these modules in vernacular, non high bandwidth needing mode to RWEs.
 
+---
+
 ### Technical Robustness / Scalability (30%)
 - Does the code have bugs? 
 - Is the project technically impressive? 
@@ -51,14 +82,20 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 - How complete is the submission? 
 - Did they leverage other techniques that already exist?
 
+---
+
 ### Business Viability (30%)
 - Details of market potential of the solution? 
 - Is this idea going to make money, or at least contribute to the solution that will? 
 - Is the idea a relevant solution to the given challenge? 
 - How easy and cost effective is the proposed solutions?
 
+---
+
 ### Social Impact (30%)
 - Did the team solve a significant problem in terms of size and impact?
+
+---
 
 ### Design and Learning Stretch (10%)
 - Did the team push themselves to learn something new? 
@@ -66,7 +103,13 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 - Did they use their resources and time well? 
 - Is the idea original?
 
+---
+
 ## Video demo of our solution
+
+---
 
 ## Link to Github/Code Repository
 https://github.com/Sushreesatarupa/Value-Chain
+
+---
