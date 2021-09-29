@@ -50,12 +50,29 @@ http://www.templatemo.com/tm-402-genius
     
     <div class="container language-select visible-md visible-lg">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-9">
                 <select name="cat2" id="lang" class="postform">
 <!--                     <option value="0">-- Language Selection --</option> -->
                     <option class="level-0" value="eng">English</option>
                     <option class="level-0" value="hin">Hindi</option>
                 </select>
+            </div>
+                <!-- <input class="postform" list="people" name="people"> -->
+               
+                <div class="col-md-3">
+                <div class="input-group"  style="display: flex;">
+                      <input style="background: black;" placeholder="search" list="people" id="search-input" type="search" id="form1" class="form-control" />
+                      <datalist id="people">
+                        <option value="Internet Explorer">
+                        <option value="Firefox">
+                        <option value="Chrome">
+                        <option value="Opera">
+                        <option value="Safari">
+                      </datalist>
+                      <button id="search-button" type="button" class="btn btn-primary">
+                      <i class="fa fa-search"></i>
+                    </button>
+                  </div>
             </div> <!-- /.col-md-12 -->
         </div> <!-- /.row -->
     </div> <!-- /.language-select -->
