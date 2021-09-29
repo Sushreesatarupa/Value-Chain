@@ -33,20 +33,19 @@ window.onload=()=>{
                                 <img src="images/team2.jpg" alt="" />
                               </div>
                               <div class="member-infos">
-                               <atarget="_blank" href="https://it-connects-us.herokuapp.com/profile/${123}">
                                 <h4 class="member-name">${k.name}</h4>
-                                </a> 
-                                <span class="member-role">Full Stack Web Devloper</span>
                                 <p class="member-desc">
-                                  Lorem ipsum dolor sit amet, consectetur
-                                  adipisicing elit.
+                                  ${k.bio}
                                 </p>
-                                <ul class="member-social">
+                                <a target="_blank" href="https://it-connects-us.herokuapp.com/profile/${k.id}">
+                                <input id="news-btn" class="mainBtn" type="submit" name="" value="View More">
+                                </a>
+                               <!-- <ul class="member-social">
                                   <li><a href="#" class="fa fa-phone"></a></li>
                                   <li><a href="#" class="fa fa-envelope-open"></a></li>
                                   <li><a href="#" class="fa fa-user-circle"></a></li>
                                   <li><a href="#" class="fa fa-map-marker"></a></li>
-                                </ul>
+                                </ul> -->
                               </div>
                             </div>
                           </div>`
