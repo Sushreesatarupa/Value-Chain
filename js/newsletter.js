@@ -6,6 +6,13 @@ window.onload=()=>{
             $(`.lang`).hide()
             $(`.${event.target.value}`).show()
         }
+        let s=$("#Grid > div.col-md-4.col-sm-6")
+        for(let i=0;i<s.length;i++){
+            s[i].onclick=()=>{
+                window.location.href = `Modules/module${i+1}.html`
+
+            }
+        }
         $("#close-search-button")[0].onclick= ()=>$("#search-results").hide()
         $("#search-button")[0].onclick= ()=> {
            $("#search-results").show()
