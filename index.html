@@ -380,7 +380,7 @@
                                         <h3 class="widget-title lang eng">All about our Team Hackoholics</h3>
                                         <h3 class="widget-title lang hin">हमारी टीम Hackoholics के बारे में सब कुछ</h3>
                                         <h3 class="widget-title lang odi"> ଆମର ଟିମ୍ ହ୍ୟାକୋହୋଲିକ୍ସ ବିଷୟରେ </h3>
-                                        <h3 class = "widget-title lang ben"> আমাদের টিম হ্যাকহোলিক্স সম্পর্কে সব </h3>
+                                        <h3 class="widget-title lang ben"> আমাদের টিম হ্যাকহোলিক্স সম্পর্কে সব </h3>
                                         <h3 class="widget-title lang hin"></h3>
                                         <h3 class="widget-title lang hin"></h3>
                                         <p class="lang eng">
@@ -1462,7 +1462,10 @@
 
               <div id="menu-7" class="content">
                 <div class="page-header">
-                  <h2 class="page-title">Stay In Touch</h2>
+                  <h2 class="widget-title lang eng">Stay In Touch</h2>
+                    <h2 class="widget-title lang hin">संपर्क में रहना</h2>
+                    <h2 class="widget-title lang odi">ଯୋଗାଯୋଗ ରେ ରୁହ</h2>
+                    <h2 class="widget-title lang ben">সাথে থাকুন</h2>
                 </div>
                 <!-- /.page-header -->
                 <div class="content-inner">
@@ -1483,7 +1486,10 @@
                       </p>
                       <div class="row contact-form">
                         <div class="col-md-6">
-                          <label for="name-id">Your Name:</label>
+                          <label class="lang eng" for="name-id">Your Name:</label>
+                          <label class="lang ben" for="name-id">তোমার নাম</label>
+                          <label class="lang hin" for="name-id">आपका नाम</label>
+                          <label class="lang odi" for="name-id">ତୁମର ନାମ</label>
                           <input
                             name="name-id"
                             type="text"
@@ -1492,7 +1498,11 @@
                           />
                         </div>
                         <div class="col-md-6">
-                          <label for="email-id">E-mail:</label>
+                           <label class="lang eng" for="name-id">E-mail:</label>
+                             <label class="lang ben" for="name-id">তোমার ইমেইল</label>
+                             <label class="lang hin" for="name-id">तुम्हारा ईमेल</label>
+                             <label class="lang odi" for="name-id">ଆପଣଙ୍କ ଇ - ମେଲ</label>
+                            
                           <input
                             name="email-id"
                             type="text"
@@ -1650,28 +1660,7 @@
     <script src="js/jquery.nicescroll.min.js"></script>
     <script src="js/jquery.lightbox.js"></script>
     <script src="js/templatemo_custom.js"></script>
-    <script>
-      function initialize() {
-        var mapOptions = {
-          zoom: 15,
-          center: new google.maps.LatLng(16.832179, 96.134976),
-        };
-
-        var map = new google.maps.Map(
-          document.getElementById("map-canvas"),
-          mapOptions
-        );
-      }
-
-      function loadScript() {
-        var script = document.createElement("script");
-        script.type = "text/javascript";
-        script.src =
-          "https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&" +
-          "callback=initialize";
-        document.body.appendChild(script);
-      }
-    </script>
+   
     <!-- templatemo 402 genius -->
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
