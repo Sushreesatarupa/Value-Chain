@@ -78,7 +78,7 @@ window.onload=()=>{
                     if(resp.ok){
                         
                         for( k of resp.data){
-                            dl.innerHTML+=`<option value="${k.name}"><a target="_blank" href="https://it-connects-us.herokuapp.com/profile/${123}"></a></option>`
+                            dl.innerHTML+=`<option value="${k.name}">`
                         }
                       
                         // msg.style.color="green"

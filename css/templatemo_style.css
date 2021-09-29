@@ -88,7 +88,7 @@ select::-ms-expand { display: none; }
 /*------------------------------------------------------
 	Gallery Styles 
 --------------------------------------------------------*/
-#Grid .mix { display: none; opacity: 0; vertical-align: top; }
+#Grid .mix {display: block;opacity: 1;vertical-align: top;}
 
 .gallery-thumb { overflow: hidden; margin-top: 30px; position: relative; }
 .gallery-thumb img { width: 100%; height: auto; }
