@@ -30,6 +30,9 @@ function getBotResponse(input) {
     case "thanks":
       // code block
       return "You are Welcome!";
+    case "I'm an enterprenuer and a lifelong learner!":
+      // code block
+      return "We are proud of you! Is there something in which I can help you?";
     default:
       return "Try asking something else!";
   }
