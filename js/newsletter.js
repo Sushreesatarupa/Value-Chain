@@ -30,7 +30,7 @@ window.onload=()=>{
                             `<div class="col-md-3 col-sm-6" style="margin:20px">
                             <div class="team-member">
                               <div class="member-thumb">
-                                <img src="images/bg-gallery.jpg" alt="" />
+                                <img src="images/bg.jpg" alt="" />
                               </div>
                               <div class="member-infos">
                                 <h4 class="member-name">${k.name}</h4>
