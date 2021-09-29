@@ -139,6 +139,26 @@ jQuery(document).ready(function($){
 		return false;
 	});
 
+	$(".main_menu .show-6").click(function(){
+		loadScript();
+		$(".bg-image").fadeOut('slow', function(){
+			$(this).css({
+				'background-image' : 'url(images/bg.jpeg)',
+			}).fadeIn('slow');
+		});
+		return false;
+	});
+
+	$(".main_menu .show-7").click(function(){
+		loadScript();
+		$(".bg-image").fadeOut('slow', function(){
+			$(this).css({
+				'background-image' : 'url(images/bg.jpeg)',
+			}).fadeIn('slow');
+		});
+		return false;
+	});
+
 
 	/************** Services Offer Effect *********************/
 	$('.services .header .service-header').hover(function () {
