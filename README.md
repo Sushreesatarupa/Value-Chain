@@ -21,6 +21,7 @@ Hackoholics
 
 ## Team description
 We are friends from the same college and we have been making projects and taking part in hackathons for more than a year now. We have participated in various gender focused hackathons and have won various prizes too. We have built projects that can benefit women and non binary people.
+
 ---
 
 ## Team members
