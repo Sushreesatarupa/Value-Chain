@@ -6,6 +6,61 @@ window.onload=()=>{
             $(`.lang`).hide()
             $(`.${event.target.value}`).show()
         }
+        $("#close-search-button")[0].onclick= ()=>$("#search-results").hide()
+        $("#search-button")[0].onclick= ()=> {
+           $("#search-results").show()
+            // window.location = $(`#people option[value='${$("#search-input").val()}']`).find("a").attr("href")
+            let querry= searchPeople.value
+            // if(querry.length<3)return
+            fetch('https://it-connects-us.herokuapp.com/search',
+                {
+                    method:'post',
+                    mode:'cors',
+                    body : JSON.stringify({'querry':querry,'limit':10}),
+                    headers: {"Content-type": "application/json; charset=UTF-8"},
+                }
+                ).then((resp)=>resp.json())
+                .then((resp)=>{
+                    let dl=$("#search-results .row")[0]
+                    dl.innerHTML=""
+                    if(resp.ok){
+                        
+                        for( k of resp.data){
+                            dl.innerHTML+=
+                            `<div class="col-md-3 col-sm-6" style="margin:20px">
+                            <div class="team-member">
+                              <div class="member-thumb">
+                                <img src="images/team2.jpg" alt="" />
+                              </div>
+                              <div class="member-infos">
+                               <atarget="_blank" href="https://it-connects-us.herokuapp.com/profile/${123}">
+                                <h4 class="member-name">${k.name}</h4>
+                                </a> 
+                                <span class="member-role">Full Stack Web Devloper</span>
+                                <p class="member-desc">
+                                  Lorem ipsum dolor sit amet, consectetur
+                                  adipisicing elit.
+                                </p>
+                                <ul class="member-social">
+                                  <li><a href="#" class="fa fa-phone"></a></li>
+                                  <li><a href="#" class="fa fa-envelope-open"></a></li>
+                                  <li><a href="#" class="fa fa-user-circle"></a></li>
+                                  <li><a href="#" class="fa fa-map-marker"></a></li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>`
+                        }
+                      
+                        // msg.style.color="green"
+                        // msg.innerHTML= `successfully subscribed`;
+                    }else{
+                        dl.innerHTML=`<option  value="No results found">`
+                        // msg.style.color="orange"
+                        // msg.innerHTML= "you have already subscribed!";
+                    }
+                })
+          }
         const searchPeople=$("#search-input")[0]
         searchPeople.onkeyup =()=>{
             let querry= searchPeople.value
@@ -24,7 +79,7 @@ window.onload=()=>{
                     if(resp.ok){
                         
                         for( k of resp.data){
-                            dl.innerHTML+=`<option value="${k.name}">`
+                            dl.innerHTML+=`<option value="${k.name}"><a target="_blank" href="https://it-connects-us.herokuapp.com/profile/${123}"></a></option>`
                         }
                       
                         // msg.style.color="green"

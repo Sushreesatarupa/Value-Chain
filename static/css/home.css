@@ -7,3 +7,10 @@ body {
     margin: 0 auto;
     background-color: #222;
 }
+#search-results .row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+}
