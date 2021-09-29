@@ -20,6 +20,7 @@ Hackoholics
 ---
 
 ## Team description
+We are friends from the same college and we have been making projects and taking part in hackathons for more than a year now. We have participated in various gender focused hackathons and have won various prizes too. We have built projects that can benefit women and non binary people.
 
 ---
 
@@ -31,7 +32,6 @@ Hackoholics
 ---
 
 ## Full project details
-
 ---
 
 ### Project name
@@ -40,30 +40,6 @@ Value-Chain-Study
 ---
 
 ### Project overview
-
----
-
-### Codes you developed
-
----
-
-### Languages/Framework/Open Source Libraries Used
-- HTML
-- CSS
-- JavaScript 
-- Bootstrap
-- SQL
-- Adobe illustrator
-- Wix
-- Cockroach DB
-- Node.js
-- Express
-- jQuery
-- GitHub
-- Heroku 
-- Porkbun
-- Vanilla js
-- Canva
 
 ---
 
@@ -129,3 +105,44 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 https://github.com/Sushreesatarupa/Value-Chain
 
 ---
+
+# Value-Chain-Study
+
+## Inspiration
+
+
+## What it does
+
+
+## How we built it
+We have used HTML, CSS, JavaScript, Bootstrap and Firebase for the website. Games were made using HTML, CSS and JavaScript. We have used echoAR to create some more fun elements for the website.
+
+## Challenges we ran into
+
+
+## Accomplishments that we're proud of
+Despite all the obstacles, we are really happy that we could incorporate all our ideas into our website. We even learnt many new things and we are proud of ourselves!
+
+## What's next for Value-Chain-Study
+
+
+## Built With
+- HTML
+- CSS
+- JavaScript 
+- Bootstrap
+- SQL
+- Adobe illustrator
+- Wix
+- Cockroach DB
+- Node.js
+- Express
+- jQuery
+- GitHub
+- Heroku 
+- Porkbun
+- Vanilla js
+- Canva
+
+## Try it out
+https://sushreesatarupa.github.io/Value-Chain/
