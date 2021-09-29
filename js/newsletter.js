@@ -7,7 +7,7 @@ window.onload=()=>{
             $(`.${event.target.value}`).show()
         }
         let s=$("#Grid > div.col-md-4.col-sm-6")
-        for(let i=0;i<s.length;i++){
+        for(let i=0;i<18;i++){
             s[i].onclick=()=>{
                 window.location.href = `Modules/module${i+1}.html`
 
