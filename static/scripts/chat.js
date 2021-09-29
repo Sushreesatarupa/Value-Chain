@@ -34,7 +34,8 @@ function getTime() {
 
 // Gets the first message
 function firstBotMessage() {
-  let firstMessage = "Welcome to Value Chain Study!";
+  let firstMessage =
+    "Welcome to Value Chain Study! You can ping any of the keywords, to continue our conversation: learn, doubt, forum, inspiration, session, newsletter";
   document.getElementById("botStarterMessage").innerHTML =
     '<p class="botText"><span>' + firstMessage + "</span></p>";
 
@@ -93,7 +94,7 @@ function sendButton() {
 }
 
 function heartButton() {
-  buttonSendText("Heart clicked!");
+  buttonSendText("❤️");
 }
 
 // Press enter to send a message
