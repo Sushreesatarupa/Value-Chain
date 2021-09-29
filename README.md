@@ -47,7 +47,23 @@ Value-Chain-Study
 
 ---
 
-### Framework/Open Source Libraries Used
+### Languages/Framework/Open Source Libraries Used
+- HTML
+- CSS
+- JavaScript 
+- Bootstrap
+- SQL
+- Adobe illustrator
+- Wix
+- Cockroach DB
+- Node.js
+- Express
+- jQuery
+- GitHub
+- Heroku 
+- Porkbun
+- Vanilla js
+- Canva
 
 ---
 
