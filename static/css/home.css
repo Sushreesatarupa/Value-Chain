@@ -12,5 +12,10 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    overflow-y: scroll;
+    max-height: 600px;
 }
+
+#search-results .row::-webkit-scrollbar{
+    display: none;
 }
