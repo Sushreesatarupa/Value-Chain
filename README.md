@@ -8,10 +8,6 @@ According to the Sixth Economic Census, women constitute only 14% of India’s e
 
 Scipt4HER Hackathon will allow participants to test their passion for innovation, problem-solving, design thinking, and programming skills by solving the pressing problems faced by women entrepreneurs and drive gender-responsive solutions.
 
-- How can you bring Financial Inclusion for rural women?
-- How can you deliver tech solutions in leveraging mainstream market and trade for rural women entrepreneurs?
-- How can you build peer-support communities for rural women?
-
 --- 
 
 ## Team name
@@ -32,7 +28,9 @@ We are friends from the same college and we have been making projects and taking
 ---
 
 ## Full project details
+- [Frontend Repository](https://github.com/Sushreesatarupa/Value-Chain)
 - [Backend Repository](https://github.com/Sayansree/Value-Chain-Backend)
+
 ---
 
 ### Project name
@@ -43,8 +41,8 @@ Value-Chain-Study
 ### Project overview
 
 Value Chain Website provided all the resources needed to know about the business value chain, modularly using diagrams and easy-to-understand details with multi-lingual features. It also has features like a discussion forum and bot to get help and clarify your doubts. We can also search for some event/person who has registered on the site and stay updated with the newsletter subscription.
-
-It has the pages
+<br>
+**It has the pages**
 - Homepage
 - About Us
 - Training
@@ -52,14 +50,14 @@ It has the pages
 - Inspirations
 - Discussion Forum
 - Stay in Touch
-
-And features like:
+<br>
+**And features like:**
 1) all languages - multilingual
 2) search bar
 3) newsletter
 4) diagrams
 5) Bot 
-
+<br>
 - **Homepage**: This page of our website shows the basic modules of the Business Value Chain. 
 - **About Us** - This is a page dedicated to the creators, i.e., Team Hackoholics.
 - **Training**: To get a more profound knowledge of the concepts, a user can use this page. This page contains relevant articles and videos to help users to get started. If users are interested in sharing their knowledge with others, they can share it on the Training page itself. But due to time constraints, we couldn't show that uploading feature on the website.
