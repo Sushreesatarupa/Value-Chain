@@ -103,7 +103,7 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 
 ### Technical Robustness / Scalability (30%)
 
-we have spent 80% of our time only fixing bugs although we have take care of most of the bugs. it is highly likely that there may be more bugs that may come up, but thats most that we can get in two days. It is remarkable that this project was built in two days. if we had more time we could have made this more awesome. we can scale this project to serve a lot of people helping them fill up the knowledge gap in value chain.all project fetures we planned are complete subbimitions are complete and we also submitted a video
+We have spent 80% of our time only fixing bugs, although we have taken care of them. It is less likely that there more bugs, but that's what we can get in two days. Remarkably, we have built this project in 72 hours. If we had more time, we could have made this more awesome. We can scale this project to serve many people, helping them fill up the knowledge gap in the value chain. All project features that we had planned for submissions are complete, and we have also submitted the video!
 
 ---
 
