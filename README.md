@@ -58,6 +58,7 @@ Value Chain Website provided all the resources needed to know about the business
 4) diagrams
 5) Bot 
 <br>
+
 - **Homepage**: This page of our website shows the basic modules of the Business Value Chain. 
 - **About Us** - This is a page dedicated to the creators, i.e., Team Hackoholics.
 - **Training**: To get a more profound knowledge of the concepts, a user can use this page. This page contains relevant articles and videos to help users to get started. If users are interested in sharing their knowledge with others, they can share it on the Training page itself. But due to time constraints, we couldn't show that uploading feature on the website.
