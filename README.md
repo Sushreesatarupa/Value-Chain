@@ -112,6 +112,7 @@ https://github.com/Sushreesatarupa/Value-Chain
 # Value-Chain-Study
 
 ## Inspiration
+After checking all the problem statements, we particularly chose this problem statement to build our project because, we couldn't find a website where a person can easily learn all about business value chain. Since these business value chain somehow determines how strong will the business stand in future. To make it more easy for aspiring rural women entrepeneur, we thought to include various local language, so that their understanding on the topic will be clear.
 
 
 ## What it does
