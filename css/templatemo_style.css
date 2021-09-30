@@ -8,7 +8,7 @@ http://www.templatemo.com/tm-402-genius
 /*-----------------------------------------------------------------------------------*/
 body { font: 14px/23px 'Dosis', Arial, sans-serif; -webkit-font-smoothing: antialiased; word-wrap: break-word; color: #dddddd; background-color: #222222; }
 
-a { -webkit-transition: all 0.1s ease-in-out; -moz-transition: all 0.1s ease-in-out; -ms-transition: all 0.1s ease-in-out; -o-transition: all 0.1s ease-in-out; transition: all 0.1s ease-in-out; }
+a {-webkit-transition: all 0.1s ease-in-out;-moz-transition: all 0.1s ease-in-out;-ms-transition: all 0.1s ease-in-out;-o-transition: all 0.1s ease-in-out;transition: all 0.1s ease-in-out;}
 
 input::-moz-focus-inner { border: 0; }
 
