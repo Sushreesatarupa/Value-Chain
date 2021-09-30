@@ -41,7 +41,33 @@ Value-Chain-Study
 ---
 
 ### Project overview
-Value Chain Website provied all the resources needed to know about value chain.it also has features like discussion forum and bot to get help and clarify our doubts. we can also search for some event/person who has registered on the site and also stay updated with newsleter subscription
+
+Value Chain Website provided all the resources needed to know about the business value chain, modularly using diagrams and easy-to-understand details with multi-lingual features. It also has features like a discussion forum and bot to get help and clarify your doubts. We can also search for some event/person who has registered on the site and stay updated with the newsletter subscription.
+
+It has the pages
+- Homepage
+- About Us
+- Training
+- Sessions
+- Inspirations
+- Discussion Forum
+- Stay in Touch
+
+And features like:
+1) all languages - multilingual
+2) search bar
+3) newsletter
+4) diagrams
+5) Bot 
+
+- **Homepage**: This page of our website shows the basic modules of the Business Value Chain. 
+- **About Us** - This is a page dedicated to the creators, i.e., Team Hackoholics.
+- **Training**: To get a more profound knowledge of the concepts, a user can use this page. This page contains relevant articles and videos to help users to get started. If users are interested in sharing their knowledge with others, they can share it on the Training page itself. But due to time constraints, we couldn't show that uploading feature on the website.
+- **Sessions**: To interact with fellow entrepreneurs or get more knowledge from experts, we designed this page so that it's easy for the user to get everything on a single page.
+- **Inspirations**: To keep the user motivated towards her business, this page was designed.
+- **Discussion forum**: This is a forum where people from all over can suggest or talk about improving their business.
+- **Stay in touch**: This is a newsletter page where users have to subscribe to get all new things suitable to their mail.
+- **ChatBot** - To help user when stuck somewhere in the website.
 
 ---
 
