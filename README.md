@@ -32,6 +32,7 @@ We are friends from the same college and we have been making projects and taking
 ---
 
 ## Full project details
+- [Backend Repository](https://github.com/Sayansree/Value-Chain-Backend)
 ---
 
 ### Project name
@@ -113,6 +114,7 @@ https://github.com/Sushreesatarupa/Value-Chain
 
 
 ## What it does
+This project tries to tackle the problem that Rural Women entrepnuer face due to lack of understang of buisness value chain. Our project in intended to fill the knowledge gap in between and help rural women entrepnuer strive more. Our website provides solution to this problem it bridges the knowledge gap. our website provides learning resources to people who need it. we have kept several modules which together teaches about value chain. we also have options to find events or people and also discuss in a dicussion forum. apart from that we also have a bot to help anyone in the website and also a newsletter subscription to keep the users notified about important happening. 
 
 
 ## How we built it
@@ -135,6 +137,7 @@ Despite all the obstacles, we are really happy that we could incorporate all our
 - SQL
 - Adobe illustrator
 - Wix
+- Postman
 - Cockroach DB
 - Node.js
 - Express
