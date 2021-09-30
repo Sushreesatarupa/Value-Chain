@@ -133,6 +133,7 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 
 ## Video demo of our solution
 [Video Link](https://youtu.be/rObngQlmBpI)
+
 ---
 
 ## Link to Github/Code Repository
