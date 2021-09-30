@@ -8,10 +8,6 @@ According to the Sixth Economic Census, women constitute only 14% of India’s e
 
 Scipt4HER Hackathon will allow participants to test their passion for innovation, problem-solving, design thinking, and programming skills by solving the pressing problems faced by women entrepreneurs and drive gender-responsive solutions.
 
-- How can you bring Financial Inclusion for rural women?
-- How can you deliver tech solutions in leveraging mainstream market and trade for rural women entrepreneurs?
-- How can you build peer-support communities for rural women?
-
 --- 
 
 ## Team name
@@ -32,6 +28,9 @@ We are friends from the same college and we have been making projects and taking
 ---
 
 ## Full project details
+- [Frontend Repository](https://github.com/Sushreesatarupa/Value-Chain)
+- [Backend Repository](https://github.com/Sayansree/Value-Chain-Backend)
+
 ---
 
 ### Project name
@@ -41,13 +40,48 @@ Value-Chain-Study
 
 ### Project overview
 
+Value Chain Website provided all the resources needed to know about the business value chain, modularly using diagrams and easy-to-understand details with multi-lingual features. It also has features like a discussion forum and bot to get help and clarify your doubts. We can also search for some event/person who has registered on the site and stay updated with the newsletter subscription.
+<br>
+
+**It has the pages**
+- Homepage
+- About Us
+- Training
+- Sessions
+- Inspirations
+- Discussion Forum
+- Stay in Touch
+
+<br>
+
+**And features like:**
+
+1) all languages - multilingual
+2) search bar
+3) newsletter
+4) diagrams
+5) Bot
+
+<br>
+
+- **Homepage**: This page of our website shows the basic modules of the Business Value Chain. 
+- **About Us** - This is a page dedicated to the creators, i.e., Team Hackoholics.
+- **Training**: To get a more profound knowledge of the concepts, a user can use this page. This page contains relevant articles and videos to help users to get started. If users are interested in sharing their knowledge with others, they can share it on the Training page itself. But due to time constraints, we couldn't show that uploading feature on the website.
+- **Sessions**: To interact with fellow entrepreneurs or get more knowledge from experts, we designed this page so that it's easy for the user to get everything on a single page.
+- **Inspirations**: To keep the user motivated towards her business, this page was designed.
+- **Discussion forum**: This is a forum where people from all over can suggest or talk about improving their business.
+- **Stay in touch**: This is a newsletter page where users have to subscribe to get all new things suitable to their mail.
+- **ChatBot** - To help user when stuck somewhere in the website.
+
 ---
 
 ### Pitch Deck (File Type: PDF)
+[LINK](https://github.com/Sushreesatarupa/Value-Chain/blob/main/Script4Her%20Presentation.pdf)
 
 ---
 
 ### Logo
+![image](https://user-images.githubusercontent.com/64991656/135365370-379ab9db-64ab-4b99-aa30-52bb8c3dcac6.png)
 
 ---
 
@@ -109,22 +143,22 @@ https://github.com/Sushreesatarupa/Value-Chain
 # Value-Chain-Study
 
 ## Inspiration
-
+After checking all the problem statements, we chose to build our project because we couldn't find a website where a person could quickly learn about the business value chain. Since these business value chain somehow determines how strong will the business stand in future. To make it easier for aspiring rural women entrepreneurs, we thought to include various local languages so that their understanding of the topic would be clear.
 
 ## What it does
-
+This project tries to tackle the problem that Rural Women entrepreneurs face due to a lack of understanding of the business value chain. Our task is intended to fill the knowledge gap in between and help rural women entrepreneurs strive more. Our website provides the solution to this problem. It bridges the knowledge gap. Our website offers learning resources to people who need them. We have kept several modules that together teach about the value chain. We also have options to find events or people and also discuss in a discussion forum. We also have a bot to help anyone on the website and a newsletter subscription to keep the users notified about important events.
 
 ## How we built it
-We have used HTML, CSS, JavaScript, Bootstrap and Firebase for the website. Games were made using HTML, CSS and JavaScript. We have used echoAR to create some more fun elements for the website.
+We have used HTML, CSS, JavaScript, and Bootstrap for the website. The chatbot was built using Javascript. The discussion forum was built with Wix. And the backend is created using node, express,cockroackDB.
 
 ## Challenges we ran into
-
+This was our first time working with a chatbot and discussion forum. We also implemented our webpage in multiple languages for the first time. We also implemented a working newsletter and automated email delivery.
 
 ## Accomplishments that we're proud of
-Despite all the obstacles, we are really happy that we could incorporate all our ideas into our website. We even learnt many new things and we are proud of ourselves!
+Despite all the obstacles, we are delighted that we could incorporate all our ideas into our website. We even learned many new things, and we are proud of ourselves!
 
 ## What's next for Value-Chain-Study
-
+Due to the limited amount of time, we couldn't build a polished prototype with good UI/UX and many features. We have thought of extending this to the outside world after making a polished product. We will try to improve the looks and work o this solution and think of new features that we can add.
 
 ## Built With
 - HTML
@@ -134,9 +168,10 @@ Despite all the obstacles, we are really happy that we could incorporate all our
 - SQL
 - Adobe illustrator
 - Wix
+- Postman
 - Cockroach DB
 - Node.js
-- Express
+- Express.js
 - jQuery
 - GitHub
 - Heroku 
