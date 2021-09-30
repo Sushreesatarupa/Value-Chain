@@ -48,6 +48,7 @@ Value-Chain-Study
 ---
 
 ### Logo
+![image](https://user-images.githubusercontent.com/64991656/135365370-379ab9db-64ab-4b99-aa30-52bb8c3dcac6.png)
 
 ---
 
