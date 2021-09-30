@@ -98,7 +98,7 @@ window.onload=()=>{
                 })
         }
 
-        $("#news-btn").onclick=async()=>{
+        $("#news-sub")[0].onclick=async()=>{
             const msg=document.getElementById("news-msg");
             const email=document.getElementById("news-email");
             const name=document.getElementById("news-name");
