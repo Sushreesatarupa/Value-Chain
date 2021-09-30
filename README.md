@@ -120,7 +120,7 @@ This project tries to tackle the problem that Rural Women entrepnuer face due to
 
 
 ## How we built it
-We have used HTML, CSS, JavaScript, Bootstrap and Firebase for the website. Games were made using HTML, CSS and JavaScript. We have used echoAR to create some more fun elements for the website.
+We have used HTML, CSS, JavaScript and Bootstrap for the website. The chatbot was built using Javascript. The discussion forum was built with Wix.
 
 ## Challenges we ran into
 This was our first time working with chatbot and discussion forum. We also implemented our webpage in multiple language for first time. We also implemented working newsletter and automated email delivery.
