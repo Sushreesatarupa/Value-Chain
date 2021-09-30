@@ -41,6 +41,7 @@ Value-Chain-Study
 ---
 
 ### Project overview
+Value Chain Website provied all the resources needed to know about value chain.it also has features like discussion forum and bot to get help and clarify our doubts. we can also search for some event/person who has registered on the site and also stay updated with newsleter subscription
 
 ---
 
@@ -127,7 +128,7 @@ This was our first time working with chatbot and discussion forum. We also imple
 Despite all the obstacles, we are really happy that we could incorporate all our ideas into our website. We even learnt many new things and we are proud of ourselves!
 
 ## What's next for Value-Chain-Study
-
+doe to limited amount of time we couldnt build a polished prototype with good UI/UX and also lot many features. we have though of extending this to outside world after making a polished product. we will try improving the looks and working o this solution and also think of new features which can be added over this.
 
 ## Built With
 - HTML
