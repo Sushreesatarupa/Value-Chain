@@ -101,13 +101,13 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 
 ---
 
-### Technical Robustness / Scalability (30%)
+### Technical Robustness / Scalability
 
 We have spent 80% of our time only fixing bugs, although we have taken care of them. It is less likely that there more bugs, but that's what we can get in two days. Remarkably, we have built this project in 72 hours. If we had more time, we could have made this more awesome. We can scale this project to serve many people, helping them fill up the knowledge gap in the value chain. All project features that we had planned for submissions are complete, and we have also submitted the video!
 
 ---
 
-### Business Viability (30%)
+### Business Viability
 - Details of market potential of the solution? 
 - Is this idea going to make money, or at least contribute to the solution that will? 
 - Is the idea a relevant solution to the given challenge? 
@@ -115,12 +115,12 @@ We have spent 80% of our time only fixing bugs, although we have taken care of t
 
 ---
 
-### Social Impact (30%)
+### Social Impact
 - Did the team solve a significant problem in terms of size and impact?
 
 ---
 
-### Design and Learning Stretch (10%)
+### Design and Learning Stretch
 - Did the team push themselves to learn something new? 
 - What technologies/APIs/Products/Methods did they use, that they didn’t know before? 
 - Did they use their resources and time well? 
