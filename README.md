@@ -119,7 +119,7 @@ https://github.com/Sushreesatarupa/Value-Chain
 We have used HTML, CSS, JavaScript, Bootstrap and Firebase for the website. Games were made using HTML, CSS and JavaScript. We have used echoAR to create some more fun elements for the website.
 
 ## Challenges we ran into
-
+This was our first time working with chatbot and discussion forum. We also implemented our webpage in multiple language for first time. We also implemented working newsletter and automated email delivery.
 
 ## Accomplishments that we're proud of
 Despite all the obstacles, we are really happy that we could incorporate all our ideas into our website. We even learnt many new things and we are proud of ourselves!
