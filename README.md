@@ -142,7 +142,7 @@ doe to limited amount of time we couldnt build a polished prototype with good UI
 - Postman
 - Cockroach DB
 - Node.js
-- Express
+- Express.js
 - jQuery
 - GitHub
 - Heroku 
