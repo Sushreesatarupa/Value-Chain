@@ -112,24 +112,22 @@ https://github.com/Sushreesatarupa/Value-Chain
 # Value-Chain-Study
 
 ## Inspiration
-After checking all the problem statements, we particularly chose this problem statement to build our project because, we couldn't find a website where a person can easily learn all about business value chain. Since these business value chain somehow determines how strong will the business stand in future. To make it more easy for aspiring rural women entrepeneur, we thought to include various local language, so that their understanding on the topic will be clear.
-
+After checking all the problem statements, we chose to build our project because we couldn't find a website where a person could quickly learn about the business value chain. Since these business value chain somehow determines how strong will the business stand in future. To make it easier for aspiring rural women entrepreneurs, we thought to include various local languages so that their understanding of the topic would be clear.
 
 ## What it does
-This project tries to tackle the problem that Rural Women entrepnuer face due to lack of understang of buisness value chain. Our project in intended to fill the knowledge gap in between and help rural women entrepnuer strive more. Our website provides solution to this problem it bridges the knowledge gap. our website provides learning resources to people who need it. we have kept several modules which together teaches about value chain. we also have options to find events or people and also discuss in a dicussion forum. apart from that we also have a bot to help anyone in the website and also a newsletter subscription to keep the users notified about important happening. 
-
+This project tries to tackle the problem that Rural Women entrepreneurs face due to a lack of understanding of the business value chain. Our task is intended to fill the knowledge gap in between and help rural women entrepreneurs strive more. Our website provides the solution to this problem. It bridges the knowledge gap. Our website offers learning resources to people who need them. We have kept several modules that together teach about the value chain. We also have options to find events or people and also discuss in a discussion forum. We also have a bot to help anyone on the website and a newsletter subscription to keep the users notified about important events.
 
 ## How we built it
-We have used HTML, CSS, JavaScript and Bootstrap for the website. The chatbot was built using Javascript. The discussion forum was built with Wix.
+We have used HTML, CSS, JavaScript, and Bootstrap for the website. The chatbot was built using Javascript. The discussion forum was built with Wix.
 
 ## Challenges we ran into
-This was our first time working with chatbot and discussion forum. We also implemented our webpage in multiple language for first time. We also implemented working newsletter and automated email delivery.
+This was our first time working with a chatbot and discussion forum. We also implemented our webpage in multiple languages for the first time. We also implemented a working newsletter and automated email delivery.
 
 ## Accomplishments that we're proud of
-Despite all the obstacles, we are really happy that we could incorporate all our ideas into our website. We even learnt many new things and we are proud of ourselves!
+Despite all the obstacles, we are delighted that we could incorporate all our ideas into our website. We even learned many new things, and we are proud of ourselves!
 
 ## What's next for Value-Chain-Study
-doe to limited amount of time we couldnt build a polished prototype with good UI/UX and also lot many features. we have though of extending this to outside world after making a polished product. we will try improving the looks and working o this solution and also think of new features which can be added over this.
+Due to the limited amount of time, we couldn't build a polished prototype with good UI/UX and many features. We have thought of extending this to the outside world after making a polished product. We will try to improve the looks and work o this solution and think of new features that we can add.
 
 ## Built With
 - HTML
