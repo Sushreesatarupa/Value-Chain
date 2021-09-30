@@ -125,10 +125,11 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 ---
 
 ### Design and Learning Stretch
-- Did the team push themselves to learn something new? 
-- What technologies/APIs/Products/Methods did they use, that they didn’t know before? 
-- Did they use their resources and time well? 
-- Is the idea original?
+- this hackathon we pushed ourselves harder than ever. 
+- we tried implementing lots of features which we havent tried before
+- we implemented search also made a working chat bot for the first time
+- we also added working newsletter and also implemented email verification during registering 
+- we learned a lot in the process in these two days
 
 ---
 
