@@ -46,6 +46,7 @@ Value Chain Website provied all the resources needed to know about value chain.i
 ---
 
 ### Pitch Deck (File Type: PDF)
+[LINK](https://github.com/Sushreesatarupa/Value-Chain/blob/main/Script4Her%20Presentation.pdf)
 
 ---
 
