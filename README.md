@@ -42,6 +42,7 @@ Value-Chain-Study
 
 Value Chain Website provided all the resources needed to know about the business value chain, modularly using diagrams and easy-to-understand details with multi-lingual features. It also has features like a discussion forum and bot to get help and clarify your doubts. We can also search for some event/person who has registered on the site and stay updated with the newsletter subscription.
 <br>
+
 **It has the pages**
 - Homepage
 - About Us
@@ -50,6 +51,7 @@ Value Chain Website provided all the resources needed to know about the business
 - Inspirations
 - Discussion Forum
 - Stay in Touch
+
 <br>
 **And features like:**
 1) all languages - multilingual
