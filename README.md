@@ -53,12 +53,15 @@ Value Chain Website provided all the resources needed to know about the business
 - Stay in Touch
 
 <br>
+
 **And features like:**
+
 1) all languages - multilingual
 2) search bar
 3) newsletter
 4) diagrams
-5) Bot 
+5) Bot
+
 <br>
 
 - **Homepage**: This page of our website shows the basic modules of the Business Value Chain. 
