@@ -102,11 +102,8 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 ---
 
 ### Technical Robustness / Scalability (30%)
-- Does the code have bugs? 
-- Is the project technically impressive? 
-- Does it seem remarkable that someone could achieve this hack in just a day or two? 
-- How complete is the submission? 
-- Did they leverage other techniques that already exist?
+
+we have spent 80% of our time only fixing bugs although we have take care of most of the bugs. it is highly likely that there may be more bugs that may come up, but thats most that we can get in two days. It is remarkable that this project was built in two days. if we had more time we could have made this more awesome. we can scale this project to serve a lot of people helping them fill up the knowledge gap in value chain.all project fetures we planned are complete subbimitions are complete and we also submitted a video
 
 ---
 
