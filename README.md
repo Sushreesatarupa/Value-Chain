@@ -118,7 +118,7 @@ After checking all the problem statements, we chose to build our project because
 This project tries to tackle the problem that Rural Women entrepreneurs face due to a lack of understanding of the business value chain. Our task is intended to fill the knowledge gap in between and help rural women entrepreneurs strive more. Our website provides the solution to this problem. It bridges the knowledge gap. Our website offers learning resources to people who need them. We have kept several modules that together teach about the value chain. We also have options to find events or people and also discuss in a discussion forum. We also have a bot to help anyone on the website and a newsletter subscription to keep the users notified about important events.
 
 ## How we built it
-We have used HTML, CSS, JavaScript, and Bootstrap for the website. The chatbot was built using Javascript. The discussion forum was built with Wix.
+We have used HTML, CSS, JavaScript, and Bootstrap for the website. The chatbot was built using Javascript. The discussion forum was built with Wix. And the backend is created using node, express,cockroackDB.
 
 ## Challenges we ran into
 This was our first time working with a chatbot and discussion forum. We also implemented our webpage in multiple languages for the first time. We also implemented a working newsletter and automated email delivery.
