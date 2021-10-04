@@ -30,6 +30,7 @@ We are friends from the same college and we have been making projects and taking
 ## Full project details
 - [Frontend Repository](https://github.com/Sushreesatarupa/Value-Chain)
 - [Backend Repository](https://github.com/Sayansree/Value-Chain-Backend)
+- [Presentation Slides](https://github.com/Sushreesatarupa/Value-Chain/blob/main/Script4Her%20Presentation.pdf)
 
 ---
 
