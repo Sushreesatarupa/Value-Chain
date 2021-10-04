@@ -125,6 +125,7 @@ To enable rural women entrepreneurs to leverage the market to secure their livel
 
 ---
 
+
 ### Design and Learning Stretch
 - this hackathon we pushed ourselves harder than ever. 
 - we tried implementing lots of features which we havent tried before
